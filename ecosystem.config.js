@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name   : "draw-game",
+    name   : "node-draw-game-zub",
     script : "./server.js"
   }]
 }
